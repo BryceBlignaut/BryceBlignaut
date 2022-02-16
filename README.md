@@ -4,7 +4,6 @@
 ### Hi there 👋, My name is Bryce Blignaut
 #### Data Science Student at Brigham Young University - Idaho
 ##### [Resume](https://github.com/BryceBlignaut/BryceBlignaut/blob/main/Resume_updated%202022.pdf)
-![Data Science Student at BYU-I](https://github.com/BryceBlignaut/BryceBlignaut/blob/main/My%20project.png)
 ##### About Me
 Driven data professional with proven skills in SQL, Python, R, Tableau and Power BI. My career interests have turned from IT consulting and infrastructure to data science. I'm on a journey to make sense of information and provide insights to business professionals and companies. 
 
