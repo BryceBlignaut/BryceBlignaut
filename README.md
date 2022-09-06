@@ -21,6 +21,6 @@ While in college, I've joined the data science society, become a student mentor,
 Skills: Python / SQL / R / PySpark / Predictive Modeling / ML
 
 ### Projects
-[Python ML]()
+[Python ML - Business Development Application](https://github.com/BryceBlignaut/FF_Business_Development_Application)
 [Data Wrangling]()
 [PySpark]
